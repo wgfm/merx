@@ -8,8 +8,7 @@ defmodule Merch.Application do
   def start(_type, _args) do
     # List all child processes to be supervised
     children = [
-      # Starts a worker by calling: Merch.Worker.start_link(arg)
-      # {Merch.Worker, arg},
+      Merch.Repo,
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html

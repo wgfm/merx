@@ -6,3 +6,5 @@ config :merch, Merch.Repo,
   username: "merx",
   password: "pass",
   hostname: "localhost"
+
+config :merch, ecto_repos: [Merch.Repo]
