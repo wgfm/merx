@@ -1,6 +1,6 @@
 use Mix.Config
 
-config :model, Model.Repo,
+config :merch, Merch.Repo,
   adapter: Ecto.Adapters.Postgres,
   database: "merx",
   username: "merx",

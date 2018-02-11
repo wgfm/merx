@@ -1,6 +1,6 @@
-defmodule Model do
+defmodule Merch do
   @moduledoc """
-  Documentation for Model.
+  Documentation for Merch.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Model do
 
   ## Examples
 
-      iex> Model.hello
+      iex> Merch.hello
       :world
 
   """
