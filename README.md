@@ -1,4 +1,4 @@
-# Merch
+# Merx
 
 **TODO: Add description**
 

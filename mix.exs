@@ -1,4 +1,4 @@
-defmodule Merch.MixProject do
+defmodule Merx.MixProject do
   use Mix.Project
 
   def project do
