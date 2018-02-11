@@ -2,7 +2,7 @@ use Mix.Config
 
 config :model, Model.Repo,
   adapter: Ecto.Adapters.Postgres,
-  database: "model_repo",
-  username: "user",
+  database: "merx",
+  username: "merx",
   password: "pass",
   hostname: "localhost"
