@@ -1,0 +1,2 @@
+defmodule Merch do
+end
